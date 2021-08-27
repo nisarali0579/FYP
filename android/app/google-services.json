@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620698585038",
+    "project_id": "campus-emergency",
+    "storage_bucket": "campus-emergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620698585038:android:43c1a03869565e6f83cd9f",
+        "android_client_info": {
+          "package_name": "com.kzainapps.uetemergencyservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620698585038-39e331sl6oa98gdq25kscska251h9hbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQFr9eFWoOUJ3WbYKUQpW8Z82t-3VFSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620698585038-39e331sl6oa98gdq25kscska251h9hbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
